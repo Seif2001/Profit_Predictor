@@ -42,5 +42,6 @@ The model had an optimal accuracy of 95%, this was tested on the test data, whic
 Remarks: Experimenting with the hyperparameters can result in a better accuracy, however this is the best accuracy that I found while experimenting myself.
 
 <a name="time"></a>
+## Time
 The whole project took around 4 hours to complete and was completed in the span of 2 days.
 The data preparation took around 2 hours and the training also took around 2 hours.
